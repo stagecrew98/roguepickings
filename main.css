@@ -1,0 +1,23 @@
+body {
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+
+@font-face{
+	font-family: 'Wisdom Script';
+	src: url('../fonts/wisdom-script.otf') format('opentype');
+}
+
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+h1
+h3
+h4 {
+  color: black;
+  text-transform: uppercase;
+  font-weight: 700;
+
+
+}
